@@ -1,0 +1,26 @@
+{
+  "name": "tech-articles",
+  "version": "1.0.0",
+  "description": "QiitaとZennの記事管理用のリポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ko-dhinngumuzuiyoo/tech-articles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ko-dhinngumuzuiyoo/tech-articles/issues"
+  },
+  "homepage": "https://github.com/ko-dhinngumuzuiyoo/tech-articles#readme",
+  "dependencies": {
+    "zenn-cli": "^0.2.11"
+  },
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.7.0"
+  }
+}
